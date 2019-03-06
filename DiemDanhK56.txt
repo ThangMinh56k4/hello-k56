@@ -1,2 +1,3 @@
 TT  	Hoten 	MaSV 	Ngaysinh   	phone
 1	a	s	2		09990
+1 Võ Minh Thắng 155D4802010184 28/08/1996 0342242666
